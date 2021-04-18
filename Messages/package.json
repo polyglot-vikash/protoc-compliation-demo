@@ -1,0 +1,15 @@
+{
+  "name": "proto-buf-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "^3.15.8",
+    "protocol-buffers": "^4.2.0"
+  }
+}
