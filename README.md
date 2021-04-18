@@ -17,4 +17,7 @@ Generated files:
 messages_pb.js
 Com.vk.protobuf.Bar.java
 
+To run/view generated JS objects please hit
+  $node main.js
+
 ```
